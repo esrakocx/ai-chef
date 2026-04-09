@@ -209,6 +209,7 @@ ai-chef/
 ---
 ## 🎨 Projeye Ait Fotoğraflar
 <img width="3420" height="1898" alt="image" src="https://github.com/user-attachments/assets/650ddd70-d3c6-4c1d-badf-e02a1d3c29d7" />
+<img width="3420" height="1898" alt="image" src="https://github.com/user-attachments/assets/8ea6487a-2235-47c4-a09c-26a9da8033c0" />
 <img width="3420" height="1898" alt="image" src="https://github.com/user-attachments/assets/e18b304c-b0f4-4c87-98e9-b86fc0fcb3f8" />
 <img width="3420" height="1898" alt="image" src="https://github.com/user-attachments/assets/b7bbd5e0-0ceb-4502-93cc-aae98b9467de" />
 <img width="3420" height="1898" alt="image" src="https://github.com/user-attachments/assets/6360a5ea-2934-415f-aef9-9307ff357bf9" />
